@@ -75,9 +75,13 @@
 ### Javascript Projects
  Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://hasan-turkel.github.io/cripto/)| Javascript, Bootstrap, CriptoAPI, Fetch | [Cripto](https://github.com/Hasan-Turkel/cripto)
-[Live Link](https://hasan-turkel.github.io/ios-calculator/)| Javascript, Bootstrap, Condition, Switch-Case | [IOS-Calculator](https://github.com/Hasan-Turkel/ios-calculator)
+[Live Link](https://hasan-turkel.github.io/cripto/)| Javascript, Bootstrap, CriptoAPI, Fetch and more| [Cripto](https://github.com/Hasan-Turkel/cripto)
+[Live Link](https://hasan-turkel.github.io/ios-calculator/)| Javascript, Bootstrap, Condition, Switch-Case and more | [IOS-Calculator](https://github.com/Hasan-Turkel/ios-calculator)
 ### NextJS Projects
  Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://hasanturkel-netflix.vercel.app/)| NextJS, TailwindCSS, API, Firebase and more | [Netflix](https://github.com/Hasan-Turkel/netflix)
+### Typescript Projects
+ Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
+:-------------------------|-------------------------|-------------------------
+[Live Link](https://tsc-todo-app.vercel.app/)| ReactJS, Typescript, MUI, Axios, Mockapi and more | [Tsc-Todo](https://github.com/Hasan-Turkel/tsc-todo-app)
