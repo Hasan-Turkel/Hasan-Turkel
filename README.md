@@ -3,8 +3,15 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/hasan-turkel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanturkel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasan-turkel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanturkel" height="" width="40" /></a> 
+
+        
+</p>   
+<p align="left">
+<a href="mailto:mhturkel@gmail.com" target="blank"><img align="center" src="https://freesvg.org/img/Android-SMS-big.png" alt="hasanturkel" height="" width="45" /></a>
 </p>
+
+## [Visit my portfolio page.](https://hasan-turkel.github.io/myportfolio/)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -23,6 +30,10 @@
 <img
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         alt="JavaScript"
+      />
+<img
+        src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"
+        alt="JavaScript" height="27.3"
       />
 
 <img
@@ -60,7 +71,7 @@
       />
 <img 
       src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      alt="TAILWIND"
+      alt="TAILWIND" 
       />
 </div>
 
