@@ -33,9 +33,13 @@
       />
 <img
         src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"
-        alt="JavaScript" height="27.3"
+        alt="TypeScript" height="27.3"
       />
-
+        
+ <img 
+     src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+     alt="Nextjs"
+     /> 
 <img
         src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         alt="HTML5"
