@@ -80,23 +80,20 @@
 </div>
 
 ## My projects
-### React.JS Projects
+
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
+React.JS Projects
 [Live Link](https://hasanturkel-blogapp.vercel.app/)| ReactJS, Bootstrap, Axios, Customhook and more | [Blog-App](https://github.com/Hasan-Turkel/blog-app)
 [Live Link](https://hasanturkel-stockapp.vercel.app/)| ReactJS, MUI, Axios, Customhook and more | [Stock-App](https://github.com/Hasan-Turkel/stock-app)
 [Live Link](https://hasanturkel-movies.vercel.app/)| ReactJS, TailwindCSS, Axios, Firebase and more | [Movies](https://github.com/Hasan-Turkel/movies)
 [Live Link](https://hasanturkel-todoapp.netlify.app/)| ReactJS, LocalStorage, LiftingStateUp, Usestate and more | [Todo-App](https://github.com/Hasan-Turkel/react-todo-app)
-### Javascript Projects
- Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
-:-------------------------|-------------------------|-------------------------
+Javascript Projects| |
 [Live Link](https://hasan-turkel.github.io/cripto/)| Javascript, Bootstrap, CriptoAPI, Fetch and more| [Cripto](https://github.com/Hasan-Turkel/cripto)
 [Live Link](https://hasan-turkel.github.io/ios-calculator/)| Javascript, Bootstrap, Condition, Switch-Case and more | [IOS-Calculator](https://github.com/Hasan-Turkel/ios-calculator)
-### NextJS Projects
- Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
-:-------------------------|-------------------------|-------------------------
+NextJS Projects
 [Live Link](https://hasanturkel-netflix.vercel.app/)| NextJS, TailwindCSS, API, Firebase and more | [Netflix](https://github.com/Hasan-Turkel/netflix)
-### Typescript Projects
- Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
-:-------------------------|-------------------------|-------------------------
+Typescript Projects
 [Live Link](https://tsc-todo-app.vercel.app/)| ReactJS, Typescript, MUI, Axios, Mockapi and more | [Tsc-Todo](https://github.com/Hasan-Turkel/tsc-todo-app)
+
+## NOTE: For more projects please visit my [repositories.](https://github.com/Hasan-Turkel?tab=repositories)
