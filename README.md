@@ -95,5 +95,6 @@ NextJS Projects
 [Live Link](https://hasanturkel-netflix.vercel.app/)| NextJS, TailwindCSS, API, Firebase and more | [Netflix](https://github.com/Hasan-Turkel/netflix)
 Typescript Projects
 [Live Link](https://tsc-todo-app.vercel.app/)| ReactJS, Typescript, MUI, Axios, Mockapi and more | [Tsc-Todo](https://github.com/Hasan-Turkel/tsc-todo-app)
+[Live Link](https://store-tsc.vercel.app/)| ReactJS, Typescript, TailwindCss, Axios React-Toastify and more | [Tsc-Todo](https://github.com/Hasan-Turkel/store-tsc)
 
 ## NOTE: For more projects please visit my [repositories.](https://github.com/Hasan-Turkel?tab=repositories)
