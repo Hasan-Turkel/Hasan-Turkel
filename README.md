@@ -85,9 +85,9 @@
 :-------------------------|-------------------------|-------------------------
 FULLSTACK PROJECTS
 Stock-App Frontend Side
-[Live Link](https://stock-api-puy9.onrender.com/)| ReactJS, MUI, Axios, Customhook and more | [Stock-App Frontend](https://github.com/Hasan-Turkel/stockapi-fs-frontend)
+[Live Link](https://stockapi-fs-frontend.vercel.app/)| ReactJS, MUI, Axios, Customhook and more | [Stock-App Frontend](https://github.com/Hasan-Turkel/stockapi-fs-frontend)
 Stock-App Backend Side
-[Live Link](https://stockapi-fs-frontend.vercel.app/)| ReactJS, MUI, Axios, Customhook and more | [Stock-App Backend](https://github.com/Hasan-Turkel/stockapi-fs-backend)
+[Live Link](https://stock-api-puy9.onrender.com/)| ExpressJS, MongoDB, Swagger, Redoc and more | [Stock-App Backend](https://github.com/Hasan-Turkel/stockapi-fs-backend)
 REACTJS PROJECTS
 [Live Link](https://hasanturkel-blogapp.vercel.app/)| ReactJS, Bootstrap, Axios, Customhook and more | [Blog-App](https://github.com/Hasan-Turkel/blog-app)
 [Live Link](https://hasanturkel-movies.vercel.app/)| ReactJS, TailwindCSS, Axios, Firebase and more | [Movies](https://github.com/Hasan-Turkel/movies)
