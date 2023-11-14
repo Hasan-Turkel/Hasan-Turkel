@@ -83,17 +83,21 @@
 
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-React.JS Projects
+FULLSTACK PROJECTS
+Stock-App Frontend Side
+[Live Link](https://stock-api-puy9.onrender.com/)| ReactJS, MUI, Axios, Customhook and more | [Stock-App Frontend](https://github.com/Hasan-Turkel/stockapi-fs-frontend)
+Stock-App Backend Side
+[Live Link](https://stockapi-fs-frontend.vercel.app/)| ReactJS, MUI, Axios, Customhook and more | [Stock-App Backend](https://github.com/Hasan-Turkel/stockapi-fs-backend)
+REACTJS PROJECTS
 [Live Link](https://hasanturkel-blogapp.vercel.app/)| ReactJS, Bootstrap, Axios, Customhook and more | [Blog-App](https://github.com/Hasan-Turkel/blog-app)
-[Live Link](https://hasanturkel-stockapp.vercel.app/)| ReactJS, MUI, Axios, Customhook and more | [Stock-App](https://github.com/Hasan-Turkel/stock-app)
 [Live Link](https://hasanturkel-movies.vercel.app/)| ReactJS, TailwindCSS, Axios, Firebase and more | [Movies](https://github.com/Hasan-Turkel/movies)
 [Live Link](https://hasanturkel-todoapp.netlify.app/)| ReactJS, LocalStorage, LiftingStateUp, Usestate and more | [Todo-App](https://github.com/Hasan-Turkel/react-todo-app)
-Javascript Projects| |
+JAVASCRIPT PROJECTS
 [Live Link](https://hasan-turkel.github.io/cripto/)| Javascript, Bootstrap, CriptoAPI, Fetch and more| [Cripto](https://github.com/Hasan-Turkel/cripto)
 [Live Link](https://hasan-turkel.github.io/ios-calculator/)| Javascript, Bootstrap, Condition, Switch-Case and more | [IOS-Calculator](https://github.com/Hasan-Turkel/ios-calculator)
-NextJS Projects
+NEXTJS PROJECTS
 [Live Link](https://hasanturkel-netflix.vercel.app/)| NextJS, TailwindCSS, API, Firebase and more | [Netflix](https://github.com/Hasan-Turkel/netflix)
-Typescript Projects
+TYPESCRIPT PROJECTS
 [Live Link](https://tsc-todo-app.vercel.app/)| ReactJS, Typescript, MUI, Axios, Mockapi and more | [Tsc-Todo](https://github.com/Hasan-Turkel/tsc-todo-app)
 [Live Link](https://store-tsc.vercel.app/)| ReactJS, Typescript, TailwindCss, Axios React-Toastify and more | [Store-Tsc](https://github.com/Hasan-Turkel/store-tsc)
 
