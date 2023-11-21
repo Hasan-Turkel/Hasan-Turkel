@@ -35,6 +35,19 @@
         src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"
         alt="TypeScript" height="27.3"
       />
+        <br>
+<img
+        src="https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"
+        alt="Nodejs" 
+      />
+<img
+        src="https://camo.githubusercontent.com/80e402d218879161eb056a6f1f6fe5b74c198898b09b0e8b8ae668ae2b6eb335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d6666663f7374796c653d736f6369616c266c6f676f3d6d6f6e676f6462"
+        alt="Mongodb" height="27.7"
+      />
+<img
+        src="https://camo.githubusercontent.com/3533d3ac5e34afefc4d1c00c5bfd94f88324ee4a5e93ee60386571de5ed67062/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504f535447524553514c2d3333363739312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d7768697465"
+        alt="postgre" height="27.7"
+      />
         
  <img 
      src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
