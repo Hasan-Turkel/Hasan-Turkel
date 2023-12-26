@@ -111,6 +111,8 @@ FULLSTACK PROJECTS
 [Live Link](https://blog-api-xaya.onrender.com/)| ExpressJS, MongoDB, Swagger, Redoc and more | [Blog-App Backend](https://github.com/Hasan-Turkel/blogapp-fs-backend)
 [Live Link](https://frontend-restaurantapp.vercel.app/)| ReactJS, Bootstrap, Axios, Customhook and more  | [frontend-restaurantapp](https://github.com/Hasan-Turkel/frontend-restaurantapp)
 [Live Link](https://reservationapi-v39t.onrender.com/)| ExpressJS, MongoDB, Swagger, Redoc and more | [backend-restaurantapi](https://github.com/Hasan-Turkel/backend-restaurantapi)
+[Live Link](https://turkels-ecommerce-next.vercel.app/)| NextJS, Typescript, Bootstrap, Axios, Customhook and more  | [frontend-ecommerce](https://github.com/Hasan-Turkel/ecommerce-next-frontend)
+[Live Link](https://e-commerce-api-y8di.onrender.com)| ExpressJS, Typescript MongoDB, Swagger, Redoc and more | [backend-ecommerce](https://github.com/Hasan-Turkel/e-commerce-backend)
 REACTJS PROJECTS
 [Live Link](https://hasanturkel-movies.vercel.app/)| ReactJS, TailwindCSS, Axios, Firebase and more | [Movies](https://github.com/Hasan-Turkel/movies)
 [Live Link](https://hasanturkel-todoapp.netlify.app/)| ReactJS, LocalStorage, LiftingStateUp, Usestate and more | [Todo-App](https://github.com/Hasan-Turkel/react-todo-app)
