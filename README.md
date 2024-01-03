@@ -37,25 +37,26 @@
       />
         <br>
 <img
-        src="https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
         alt="Nodejs" 
       />
 <img
-        src="https://camo.githubusercontent.com/80e402d218879161eb056a6f1f6fe5b74c198898b09b0e8b8ae668ae2b6eb335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d6666663f7374796c653d736f6369616c266c6f676f3d6d6f6e676f6462"
+        src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
+        alt="Expressjs" 
+      />
+<img
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="Mongodb" height="27.7"
       />
 <img
-        src="https://camo.githubusercontent.com/3533d3ac5e34afefc4d1c00c5bfd94f88324ee4a5e93ee60386571de5ed67062/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504f535447524553514c2d3333363739312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d7768697465"
+        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="postgre" height="27.7"
       />
 <img
-        src="https://camo.githubusercontent.com/4590c0af4aeb1b75233885f86e80c1da8cb2afd401173a40e41370f5cad5db20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73"
+        src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"
         alt="jwt" height="27.7"
       />
-<img
-        src="https://camo.githubusercontent.com/25a680005c97bad11aac047f0c80ca8bca42b7d890ca0098c7749abcf0dbe2d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537761676765722d3035313232413f7374796c653d666c6174266c6f676f3d73776167676572"
-        alt="swagger" height="27.7"
-      />
+
         
  <img 
      src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
