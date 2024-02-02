@@ -120,7 +120,7 @@ Movies|[Live Link](https://hasanturkel-movies.vercel.app/)| ReactJS, TailwindCSS
 TodoApp|[Live Link](https://hasanturkel-todoapp.netlify.app/)| ReactJS, LocalStorage, LiftingStateUp, Usestate and more | [Todo-App](https://github.com/Hasan-Turkel/react-todo-app)
 JAVASCRIPT PROJECTS
 Cripto|[Live Link](https://hasan-turkel.github.io/cripto/)| Javascript, Bootstrap, CriptoAPI, Fetch and more| [Cripto](https://github.com/Hasan-Turkel/cripto)
-Ios-Calcuşator|[Live Link](https://hasan-turkel.github.io/ios-calculator/)| Javascript, Bootstrap, Condition, Switch-Case and more | [IOS-Calculator](https://github.com/Hasan-Turkel/ios-calculator)
+Ios-Calculator|[Live Link](https://hasan-turkel.github.io/ios-calculator/)| Javascript, Bootstrap, Condition, Switch-Case and more | [IOS-Calculator](https://github.com/Hasan-Turkel/ios-calculator)
 NEXTJS PROJECTS
 Netflix|[Live Link](https://hasanturkel-netflix.vercel.app/)| NextJS, TailwindCSS, API, Firebase and more | [Netflix](https://github.com/Hasan-Turkel/netflix)
 WeatherApp|[Live Link](https://hasanturkel-weatherapp.vercel.app/)| NextJS, Typescript, TailwindCSS, WeatherApi and more | [WeatherApp](https://github.com/Hasan-Turkel/weather-app)
