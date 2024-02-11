@@ -121,6 +121,8 @@ RestaurantApp Native|| React Native, React Navigation, Axios, Customhook and mor
 E-CommerceApp Frontend|[Live Link](https://turkels-ecommerce-next.vercel.app/)| NextJS, Typescript, Bootstrap, Axios, Customhook and more  | [Frontend-Ecommerce](https://github.com/Hasan-Turkel/ecommerce-next-frontend)
 E-CommerceApp Backend|[Live Link](https://e-commerce-api-y8di.onrender.com)| ExpressJS, Typescript MongoDB, Swagger, Redoc and more | [Backend-Ecommerce](https://github.com/Hasan-Turkel/e-commerce-backend)
 E-CommerceApp Native|| React Native, React Navigation, Axios, Customhook and more | [E-CommerceApp Native](https://github.com/Hasan-Turkel/native-ecommerce)
+StarWarsApp Frontend|[Live Link](https://star-wars-frontend-ten.vercel.app/)| ReactJS, Bootstrap, Axios, Customhook and more  | [StarWarsApp Frontend](https://github.com/Hasan-Turkel/starWars-frontend)
+StarWarsApp Backend|[Live Link](https://star-wars-backend-mu.vercel.app/)| ExpressJS, MongoDB, Swagger, Redoc and more | [StarWarsApp Backend](https://github.com/Hasan-Turkel/starWars-backend)
 REACTJS PROJECTS
 Movies|[Live Link](https://hasanturkel-movies.vercel.app/)| ReactJS, TailwindCSS, Axios, Firebase and more | [Movies](https://github.com/Hasan-Turkel/movies)
 TodoApp|[Live Link](https://hasanturkel-todoapp.netlify.app/)| ReactJS, LocalStorage, LiftingStateUp, Usestate and more | [Todo-App](https://github.com/Hasan-Turkel/react-todo-app)
