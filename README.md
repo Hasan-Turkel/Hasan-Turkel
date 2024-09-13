@@ -49,6 +49,10 @@
         alt="Expressjs" 
       />
 <img
+        src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white"
+        alt="Nestjs" height="27.3"
+      />
+<img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="Mongodb" height="27.7"
       />
